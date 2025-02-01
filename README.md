@@ -1,5 +1,6 @@
 
-AI Nutritionist App
+**AI Nutritionist App**
+
 This AI-powered nutritionist app leverages Google Gemini to analyze food images and provide insights into calorie content and health ratings. The app aims to promote healthier eating habits by helping users make informed dietary choices.
 
 🚀 Features
