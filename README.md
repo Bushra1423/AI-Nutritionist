@@ -1,4 +1,4 @@
-# 🥗 AI Nutritionist App  
+# 🥗 AI-Powered Nutritionist App  
 
 An **AI-powered nutritionist app** that leverages **Google Gemini** to analyze food images and provide insights into **calorie content** and **health ratings**. The app is designed to promote healthier eating habits by helping users make informed dietary choices.  
 
@@ -44,3 +44,4 @@ An **AI-powered nutritionist app** that leverages **Google Gemini** to analyze f
 
 ## 🌱 Impact  
 This project demonstrates the **powerful combination of AI and health awareness** to build impactful tools that contribute to a **healthier lifestyle**.  
+
